@@ -12,7 +12,7 @@
 
 Projeto criado a partir do curso de JavaScript para Web: Crie páginas dinâmicas da [Alura](https://www.alura.com.br/curso-online-javascript-web-paginas-dinamicas) com a instrutora [Vanessa Me Tonini](https://github.com/vanessametonini), onde criamos uma bateria que reproduz um som após o clique com o mouse ou com as teclas enter ou espaço quando o botão estiver selecionado. Utilizando o JavaScript para aplicar funções, listas, Interando em listas, eventos e lógicas a bateria MIDI.
 
-![aluramidi](https://user-images.githubusercontent.com/105133847/215239464-18d9b767-4852-454a-a22c-133af77d4e76.png)
+![aluramidi](https://user-images.githubusercontent.com/105133847/215239464-18d9b767-4852-454a-a22c-133af77d4e76.png#vitrinedev)
 
 <h2>Ferramentas utilizadas</h2>
 
